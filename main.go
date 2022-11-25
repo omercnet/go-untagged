@@ -13,3 +13,7 @@ func Proverb() string {
 func Proverb2() string {
 	return quote.Concurrency()
 }
+
+func Proverb3() string {
+	return quote.Concurrency()
+}
