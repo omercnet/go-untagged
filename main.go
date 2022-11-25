@@ -9,3 +9,7 @@ func Hello() string {
 func Proverb() string {
 	return quote.Concurrency()
 }
+
+func Proverb2() string {
+	return quote.Concurrency()
+}
