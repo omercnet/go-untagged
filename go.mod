@@ -1,4 +1,4 @@
-module github.com/descope/useless
+module github.com/omercnet/go-untagged
 
 go 1.19
 
